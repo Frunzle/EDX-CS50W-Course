@@ -16,26 +16,22 @@ tr,td {
     border:2px solid violet;
     border-collapse:collapse;
 }
+div { height:20%}
 
 #topline {
 background-color: red;
-height:20%;
 }
 #topmidline {
     background-color: orange;
-    height:20%;
     }
 #midline {
     background-color: yellow;
-    height:20%;
     }
 #midbottomline {
         background-color: green;
-        height:20%;
         }
 #bottomline {
      background-color: blue;
-     height:20%;
     }
 
     
