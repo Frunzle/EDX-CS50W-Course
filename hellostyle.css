@@ -1,0 +1,44 @@
+html,body {
+height:100%;
+}
+h1 {
+    color:green;
+    text-align: center;
+}
+
+table {
+    border:2px solid violet;    
+    border-collapse: collapse;
+}
+
+
+tr,td {
+    border:2px solid violet;
+    border-collapse:collapse;
+}
+
+#topline {
+background-color: red;
+height:20%;
+}
+#topmidline {
+    background-color: orange;
+    height:20%;
+    }
+#midline {
+    background-color: yellow;
+    height:20%;
+    }
+#midbottomline {
+        background-color: green;
+        height:20%;
+        }
+#bottomline {
+     background-color: blue;
+     height:20%;
+    }
+
+    
+
+
+
